@@ -1,6 +1,6 @@
 # Meterpreter Session on Android 16 - Samsung Z Flip 5
 
-Complete guide to establishing a working Meterpreter reverse shell session on Android 16 running on a Samsung Z Flip 5 using Metasploit Framework.
+Complete guide to establishing a working Meterpreter reverse shell session on Android 16 running on a Samsung Z Flip 5 using Metasploit Framework. Initial "backdoored" APK installation & full permission grants (SMS, Microphone, Phone, Storage etc.) are required.
 
 ## Prerequisites
 

